@@ -2,6 +2,8 @@
 
 Space Invaders game for Android with LibGDX.
 
+![Space Invaders](docs/images/spaceinvaders.png?raw=true "Space Invaders")
+
 ## Features
 
 **1.** Fullscreen by using Immersive Sticky Mode
